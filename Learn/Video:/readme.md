@@ -1,0 +1,2 @@
+- [GDB is REALLY easy! Find Bugs in Your Code with Only A Few Commands](https://youtu.be/Dq8l1_-QgAc)
+- [GDB Beginner Masterclass](https://youtu.be/MTkDTjdDP3c)
